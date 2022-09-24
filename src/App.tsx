@@ -17,7 +17,7 @@ import { ikunTheme } from './themes/ikun';
 import { Zoviyx } from './themes/Zoviyx';
 
 // 主题
-const themes = [defaultTheme, fishermanTheme, jinlunTheme, ikunTheme,Zoviyx];
+const themes = [defaultTheme, fishermanTheme, jinlunTheme, ikunTheme, Zoviyx];
 
 // 最大关卡
 const maxLevel = 50;
