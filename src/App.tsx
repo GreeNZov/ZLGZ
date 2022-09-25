@@ -13,8 +13,7 @@ import { defaultTheme } from './themes/default';
 import { Icon, Theme } from './themes/interface';
 import { fishermanTheme } from './themes/fisherman';
 import { jinlunTheme } from './themes/jinlun';
-import { ikunTheme } from './themes/ikun';
-import { ZoviyxTheme } from './themes/Zoviyx';
+import { ZoviyxTheme } from './themes/ikun';
 
 // 主题
 const themes = [defaultTheme, fishermanTheme, jinlunTheme, ikunTheme, ZoviyxTheme];
