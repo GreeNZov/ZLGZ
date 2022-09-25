@@ -51,8 +51,8 @@ const icons = Object.entries(imagesUrls).map(([key, value]) => ({
     content: <img src={value} alt="" />,
 }));
 
-export const ikunTheme: Theme<SoundNames> = {
-    name: 'iKun',
+export const ZoviyxTheme: Theme<SoundNames> = {
+    name: 'Zoviyx',
     bgm,
     icons: icons.map(({ name, content }) => ({
         name,
