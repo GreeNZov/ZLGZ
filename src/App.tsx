@@ -14,10 +14,10 @@ import { Icon, Theme } from './themes/interface';
 import { fishermanTheme } from './themes/fisherman';
 import { jinlunTheme } from './themes/jinlun';
 import { ikunTheme } from './themes/ikun';
-import { Zoviyx } from './themes/Zoviyx';
+import { ZoviyxTheme } from './themes/Zoviyx';
 
 // 主题
-const themes = [defaultTheme, fishermanTheme, jinlunTheme, ikunTheme, Zoviyx];
+const themes = [defaultTheme, fishermanTheme, jinlunTheme, ikunTheme, ZoviyxTheme];
 
 // 最大关卡
 const maxLevel = 50;
